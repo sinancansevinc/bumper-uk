@@ -26,8 +26,8 @@ A Django-based API for managing guest entries and user information, backed by Po
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <bumper-uk>
+git clone https://github.com/sinancansevinc/bumper-uk.git
+cd bumper-uk
 ```
 
 ### 2. Create the `.env` File
